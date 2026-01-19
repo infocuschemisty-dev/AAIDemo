@@ -1,4 +1,4 @@
-baseURL = "https://aai.ngo/"
+baseURL = "/"
 languageCode = "en-us"
 title = "AAi Hugo Demo"
 theme = "kawaii"

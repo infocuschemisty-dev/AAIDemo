@@ -2,69 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-11-15T10:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gallery/annual-food-drive-2024/</loc>
+    <loc>//localhost:1313/gallery/annual-food-drive-2024/</loc>
     <lastmod>2024-11-15T10:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
+    <loc>//localhost:1313/gallery/</loc>
     <lastmod>2024-11-15T10:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gallery/community-garden-planting/</loc>
+    <loc>//localhost:1313/gallery/community-garden-planting/</loc>
     <lastmod>2024-04-22T09:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/design/</loc>
+    <loc>//localhost:1313/tags/design/</loc>
     <lastmod>2024-01-15T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>//localhost:1313/tags/hugo/</loc>
     <lastmod>2024-01-15T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-01-15T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-01-15T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/theme/</loc>
+    <loc>//localhost:1313/tags/theme/</loc>
     <lastmod>2024-01-15T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/welcome-to-kawaii/</loc>
+    <loc>//localhost:1313/posts/welcome-to-kawaii/</loc>
     <lastmod>2024-01-15T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/design-philosophy/</loc>
+    <loc>//localhost:1313/posts/design-philosophy/</loc>
     <lastmod>2024-01-12T14:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <loc>//localhost:1313/tags/philosophy/</loc>
     <lastmod>2024-01-12T14:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ui-ux/</loc>
+    <loc>//localhost:1313/tags/ui-ux/</loc>
     <lastmod>2024-01-12T14:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gallery/youth-mentorship/</loc>
+    <loc>//localhost:1313/gallery/youth-mentorship/</loc>
     <lastmod>2024-01-10T18:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/customization-guide/</loc>
+    <loc>//localhost:1313/posts/customization-guide/</loc>
     <lastmod>2024-01-10T09:15:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/customization/</loc>
+    <loc>//localhost:1313/tags/customization/</loc>
     <lastmod>2024-01-10T09:15:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <loc>//localhost:1313/tags/tutorial/</loc>
     <lastmod>2024-01-10T09:15:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>//localhost:1313/posts/deploy-to-amplify/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/deploy-to-amplify/</loc>
+    <loc>//localhost:1313/donate/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/donate/</loc>
+    <loc>//localhost:1313/volunteer/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/volunteer/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>
