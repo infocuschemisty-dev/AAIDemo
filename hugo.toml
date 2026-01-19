@@ -1,0 +1,109 @@
+baseURL = "https://aai.ngo/"
+languageCode = "en-us"
+title = "AAi Hugo Demo"
+theme = "kawaii"
+
+enableEmoji = true
+
+[pagination]
+  pagerSize = 6
+
+[build]
+  writeStats = true
+
+[params]
+  description = "Jews, Christians & Muslims Uniting to Alleviate Poverty"
+  author = "AAI Team"
+  
+  logo = "/images/aai-logo.svg"
+  
+  theme_toggle = true
+  search = true
+  favicon = "/favicon.ico"
+  
+  hero_cta = "Join Our Mission"
+  hero_cta_link = "/volunteer"
+  
+  footer_description = "Uniting to serve the poor. 1930 Camden Ave. STE 3A San Jose, CA 95124 US"
+  copyright = "2026 AAi"
+  
+  [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/abrahamicalliance"
+  
+  [[params.social]]
+    name = "twitter"
+    url = "https://aai.ngo/"
+    
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/abrahamicalliance/"
+  
+  [[params.footer_links]]
+    name = "About Us"
+    url = "/about"
+
+  [[params.footer_links]]
+    name = "Volunteer"
+    url = "/volunteer"
+  
+  [[params.featured_sections]]
+    title = "Collaborate in Compassion"
+    description = "Building bridges of understanding and respect between our communities."
+    icon = "🤝"
+    link = "/about"
+  
+  [[params.featured_sections]]
+    title = "Relieve Poverty"
+    description = "We’re on a mission to relieve poverty and save lives because we’re better together."
+    icon = "🍞"
+    link = "/donate"
+  
+  [[params.featured_sections]]
+    title = "Global Impact"
+    description = "Connects Nonprofits, Donors, & Companies in Every Country."
+    icon = "🌍"
+    link = "/about"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  
+  [[menu.main]]
+    name = "About Us"
+    url = "/about"
+    weight = 20
+  
+  [[menu.main]]
+    name = "Volunteer"
+    url = "/volunteer"
+    weight = 30
+    
+  [[menu.main]]
+    name = "Donate"
+    url = "/donate"
+    weight = 40
+
+  [[menu.main]]
+    name = "Gallery"
+    url = "/gallery"
+    weight = 35
+
+[markup]
+  [markup.highlight]
+    style = "github"
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
+    guessSyntax = true
+  
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]

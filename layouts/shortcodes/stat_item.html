@@ -1,0 +1,20 @@
+<div class="kawaii-stat-item">
+    <div class="kawaii-stat-number" data-count="{{ .Get " count" }}" data-suffix="{{ .Get " suffix" }}">{{ .Get "count"
+        }}{{ .Get "suffix" }}</div>
+    <div class="kawaii-stat-label">{{ .Get "label" }}</div>
+</div>
+
+<style>
+    .kawaii-stat-number {
+        font-size: 3rem;
+        font-weight: 800;
+        color: var(--kawaii-primary);
+        margin-bottom: 0.5rem;
+    }
+
+    .kawaii-stat-label {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--kawaii-text-secondary);
+    }
+</style>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event Gallery on AAi Hugo Demo</title>
+    <link>http://localhost:1313/gallery/</link>
+    <description>Recent content in Event Gallery on AAi Hugo Demo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Nov 2024 10:00:00 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annual Food Drive 2024</title>
+      <link>http://localhost:1313/gallery/annual-food-drive-2024/</link>
+      <pubDate>Fri, 15 Nov 2024 10:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/gallery/annual-food-drive-2024/</guid>
+      <description>&lt;h1 id=&#34;annual-food-drive-2024&#34;&gt;Annual Food Drive 2024&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/community_event.png&#34; alt=&#34;Community Event&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Our community came together in an incredible way for this year&amp;rsquo;s Annual Food Drive. We set a goal to collect 3,000 lbs of food, and we smashed it by collecting over &lt;strong&gt;5,000 lbs&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Volunteers from all walks of life spent the day sorting, packing, and distributing food to local families in need.&lt;/p&gt;&#xA;&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;500+&lt;/strong&gt; Families served&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;150&lt;/strong&gt; Volunteers participated&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;$2,000&lt;/strong&gt; Raised in additional donations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Thank you to everyone who made this possible!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Community Garden Planting</title>
+      <link>http://localhost:1313/gallery/community-garden-planting/</link>
+      <pubDate>Mon, 22 Apr 2024 09:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/gallery/community-garden-planting/</guid>
+      <description>&lt;h1 id=&#34;community-garden-planting&#34;&gt;Community Garden Planting&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/community_event.png&#34; alt=&#34;Community Event&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;To celebrate Earth Day, we launched our new Community Garden project. Neighbors joined hands to plant vegetables, herbs, and flowers that will provide fresh produce to the community center kitchen.&lt;/p&gt;&#xA;&lt;p&gt;It was a beautiful day of sunshine, soil, and smiles.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-we-planted&#34;&gt;What We Planted&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tomatoes&lt;/li&gt;&#xA;&lt;li&gt;Peppers&lt;/li&gt;&#xA;&lt;li&gt;Zucchini&lt;/li&gt;&#xA;&lt;li&gt;Basil &amp;amp; Cilantro&lt;/li&gt;&#xA;&lt;li&gt;Sunflowers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We can&amp;rsquo;t wait to see the garden grow!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Youth Mentorship Kickoff</title>
+      <link>http://localhost:1313/gallery/youth-mentorship/</link>
+      <pubDate>Wed, 10 Jan 2024 18:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/gallery/youth-mentorship/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/community_event.png&#34; alt=&#34;Community Event&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;youth-mentorship-kickoff&#34;&gt;Youth Mentorship Kickoff&lt;/h1&gt;&#xA;&lt;p&gt;We are thrilled to announce the launch of our Youth Mentorship Program. This event brought together 30 energetic youths and 30 dedicated professionals ready to guide them.&lt;/p&gt;&#xA;&lt;p&gt;The evening was filled with icebreaker activities, inspiring speeches, and the beginning of life-long connections.&lt;/p&gt;&#xA;&lt;h3 id=&#34;program-goals&#34;&gt;Program Goals&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Career guidance&lt;/li&gt;&#xA;&lt;li&gt;Personal development&lt;/li&gt;&#xA;&lt;li&gt;Networking opportunities&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s to a bright future for our leaders of tomorrow!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
